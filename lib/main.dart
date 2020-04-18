@@ -104,7 +104,7 @@ class MyApp extends StatelessWidget {
              ),
               Text
               (
-                "communication and networking Engineer",
+                  "Communication and networking Engineer",
                  style:TextStyle
                    (
                       fontSize: 19.0,
