@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
               CircleAvatar
               (
                     backgroundImage: AssetImage('images/yogesh.jpg'),
-                    radius:30.0,
+                    radius:38.0,
             
               ),
               Text
@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
                 "Web and App Developer",
                 style:TextStyle
                 (
-                  fontSize: 15.0,
+                  fontSize: 19.0,
                   fontWeight: FontWeight.bold,
                   color:Colors.white,
                 ),
@@ -62,7 +62,7 @@ class MyApp extends StatelessWidget {
                                  style: TextStyle
                                 (
                                   color:Colors.purple.shade900,
-                                  fontSize: 15.0,
+                                  fontSize: 19.0,
                                   fontWeight: FontWeight.bold,
                                 ),
                               ),
@@ -89,7 +89,7 @@ class MyApp extends StatelessWidget {
                                  style: TextStyle
                                 (
                                   color:Colors.purple.shade900,
-                                  fontSize: 15.0,
+                                  fontSize:19.0,
                                   fontWeight: FontWeight.bold,
                                 ),
                               ),
@@ -99,7 +99,7 @@ class MyApp extends StatelessWidget {
                       ),
             CircleAvatar
             (
-              radius: 30.0,
+              radius: 38.0,
               backgroundImage: AssetImage("images/aman.jpeg"),
              ),
               Text
@@ -107,7 +107,7 @@ class MyApp extends StatelessWidget {
                 "communication and networking Engineer",
                  style:TextStyle
                    (
-                      fontSize: 15.0,
+                      fontSize: 19.0,
                       fontWeight: FontWeight.bold,
                       color:Colors.white,
                         ),
@@ -131,7 +131,7 @@ class MyApp extends StatelessWidget {
                                  style: TextStyle
                                 (
                                   color:Colors.purple.shade900,
-                                  fontSize: 15.0,
+                                  fontSize: 19.0,
                                   fontWeight: FontWeight.bold,
                                 ),
                               ),
@@ -158,7 +158,7 @@ class MyApp extends StatelessWidget {
                                  style: TextStyle
                                 (
                                   color:Colors.purple.shade900,
-                                  fontSize: 15.0,
+                                  fontSize: 19.0,
                                   fontWeight: FontWeight.bold,
                                 ),
                               ),
@@ -168,7 +168,7 @@ class MyApp extends StatelessWidget {
                       ),
                        CircleAvatar
                      (
-                        radius: 30.0,
+                        radius: 38.0,
                         backgroundImage: AssetImage("images/shrey.jpeg"),
                      ),
                       Text
@@ -176,7 +176,7 @@ class MyApp extends StatelessWidget {
                          "Data Science and Automation Engineer",
                          style:TextStyle
                          (
-                           fontSize: 15.0,
+                           fontSize: 19.0,
                            fontWeight: FontWeight.bold,
                            color:Colors.white,
                          )
@@ -200,7 +200,7 @@ class MyApp extends StatelessWidget {
                                  style: TextStyle
                                 (
                                   color:Colors.purple.shade900,
-                                  fontSize: 15.0,
+                                  fontSize: 19.0,
                                   fontWeight: FontWeight.bold,
                                 ),
                               ),
@@ -227,76 +227,7 @@ class MyApp extends StatelessWidget {
                                  style: TextStyle
                                 (
                                   color:Colors.purple.shade900,
-                                  fontSize: 15.0,
-                                  fontWeight: FontWeight.bold,
-                                ),
-                              ),
-                             )
-                           ),
-                        ),
-                      ),
-                    CircleAvatar
-                    (
-                      backgroundImage: AssetImage('images/himanshu.jpg'),
-                      radius:30.0,
-                    ),
-                    Text
-                    (
-                      "Hardware and chipset Engineer",
-                      style:TextStyle
-                      (
-                         fontSize:15.0,
-                         fontWeight: FontWeight.bold,
-                         color:Colors.white,
-                      ),
-                    ),
-                    Container
-                      (
-                        child:Card
-                        (
-                           color:Colors.white,
-                           margin:EdgeInsets.symmetric(vertical:10.0,horizontal:25.0),
-                           child:Padding
-                           (
-                             padding:EdgeInsets.all(1.0),
-                             child:ListTile(
-                               leading: Icon(
-                                  Icons.phone,
-                               ),
-                               title: Text
-                               (
-                                 "+91 98751 54345",
-                                 style: TextStyle
-                                (
-                                  color:Colors.purple.shade900,
-                                  fontSize: 15.0,
-                                  fontWeight: FontWeight.bold,
-                                ),
-                              ),
-                             )
-                           ),
-                        ),
-                      ),
-                Container
-                      (
-                        child:Card
-                        (
-                           color:Colors.white,
-                           margin:EdgeInsets.symmetric(vertical:10.0,horizontal:25.0),
-                           child:Padding
-                           (
-                             padding:EdgeInsets.all(1.0),
-                             child:ListTile(
-                               leading: Icon(
-                                  Icons.email,
-                               ),
-                               title: Text
-                               (
-                                 "himanshu.rastogi@aztecsindia.com",
-                                 style: TextStyle
-                                (
-                                  color:Colors.purple.shade900,
-                                  fontSize: 15.0,
+                                  fontSize: 20.0,
                                   fontWeight: FontWeight.bold,
                                 ),
                               ),
